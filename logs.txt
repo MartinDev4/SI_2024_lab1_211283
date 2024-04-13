@@ -1,0 +1,35 @@
+commit 2cb481d0fc2d116bc697b24ee56d7c2272cb6f21
+Author: Martin Vaskoski
+Date:   Sat Apr 13 17:33:24 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 998cb2859deef3bfc353ce7673027e93db8d94f2
+Author: Martin Vaskoski
+Date:   Sat Apr 13 17:28:13 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 295421fc054e7b8c6cf39c708c8f1e4afe711ccf
+Author: Martin Vaskoski 
+Date:   Sat Apr 13 17:31:35 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit d08bc23b65eaa9a78663ccd0480cf852e4504aba
+Author: Martin Vaskoski 
+Date:   Sat Apr 13 17:24:02 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 81ec70e01b8ecad6da677a427e26c52a3bea59ac
+Author: Martin Vaskoski 
+Date:   Sat Apr 13 17:11:42 2024 +0200
+
+    Add starter code
+
+commit 355014bc3a74162c215aae09a0601071ba9a92a3
+Author: Martin Vaskoski
+Date:   Sat Apr 13 17:04:59 2024 +0200
+
+    Initial commit
